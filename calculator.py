@@ -1,5 +1,15 @@
-def add(x, y):
-    return x+y
+"""
+Calculator app with basic methods.
+"""
 
-def subtract(x, y):
-    return x-y
+
+def add(a, b):
+    return a + b
+
+
+def subtract(a, b):
+    return a - b
+
+
+def multiply(a, b):
+    return a * b
